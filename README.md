@@ -1,2 +1,6 @@
-Predicting Road accidents hotspots using weather,Traffic and Social data
-Team:Data Vigilance Members:B GURU,MAHANTH V,ABHISHEK R ,SUJIT M
+🚦 Predicting Road Accident Hotspots Using Weather, Traffic, and Social Data
+
+Team: Data Vigilance
+Members: Mahanth V, R Abhiishek, Sujit Muthukumarasamy, Guru B
+
+AI-based system predicting road accident hotspots using weather, traffic, and social data.
